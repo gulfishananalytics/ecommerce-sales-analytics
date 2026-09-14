@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Selling_Price,Cost_Price
+501,Sofa 1,Furniture,Sofa,Lumora,6690.99,4833
+502,Sofa 2,Furniture,Sofa,Lumora,23612.77,13527
+503,Sofa 3,Furniture,Sofa,Lumora,15508.42,11531
+504,Sofa 4,Furniture,Sofa,Lumora,8893.36,7292
+505,Sofa 5,Furniture,Sofa,Lumora,1201.58,930
+506,Sofa 6,Furniture,Sofa,Lumora,11307.4,6634
+507,Sofa 7,Furniture,Sofa,Lumora,15231.57,9002
+508,Sofa 8,Furniture,Sofa,Lumora,14362.29,10329
+509,Sofa 9,Furniture,Sofa,Lumora,5844.93,3292
+510,Sofa 10,Furniture,Sofa,Lumora,10148.77,7545
+511,Sofa 11,Furniture,Sofa,Lumora,9093.4,6912
+512,Sofa 12,Furniture,Sofa,Lumora,15879.18,11058
+513,Sofa 13,Furniture,Sofa,Lumora,2260.67,1345
+514,Sofa 14,Furniture,Sofa,Lumora,14526.52,9967
+515,Sofa 15,Furniture,Sofa,Lumora,15667.71,10924
+516,Sofa 16,Furniture,Sofa,Lumora,16210.28,12429
+517,Sofa 17,Furniture,Sofa,Lumora,8627.21,5712
+518,Sofa 18,Furniture,Sofa,Lumora,10261.57,7666
+519,Sofa 19,Furniture,Sofa,Lumora,20391.97,12133
+520,Sofa 20,Furniture,Sofa,Lumora,11135.44,8761
+521,Sofa 21,Furniture,Sofa,Lumora,16625.5,9952
+522,Sofa 22,Furniture,Sofa,Lumora,23719.32,14312
+523,Sofa 23,Furniture,Sofa,Lumora,8108.54,4763
+524,Sofa 24,Furniture,Sofa,Lumora,5493.43,3105
+525,Sofa 25,Furniture,Sofa,Lumora,4820.35,3838
+526,Sofa 26,Furniture,Sofa,Lumora,1345.46,920
+527,Sofa 27,Furniture,Sofa,Lumora,17954.79,10803
+528,Sofa 28,Furniture,Sofa,Lumora,3658.59,3007
+529,Sofa 29,Furniture,Sofa,Lumora,18454.85,12092
+530,Sofa 30,Furniture,Sofa,Lumora,2762.11,1790
+531,Sofa 31,Furniture,Sofa,Lumora,1503.9,914
+532,Sofa 32,Furniture,Sofa,Lumora,4722.15,2638
+533,Sofa 33,Furniture,Sofa,Lumora,17202.13,10895
+534,Sofa 34,Furniture,Sofa,Lumora,8353.08,6367
+535,Sofa 35,Furniture,Sofa,Lumora,19456.56,11190
+536,Sofa 36,Furniture,Sofa,Lumora,7060.62,5364
+537,Sofa 37,Furniture,Sofa,Lumora,19223.87,14270
+538,Sofa 38,Furniture,Sofa,Lumora,22365.27,13279
+539,Sofa 39,Furniture,Sofa,Lumora,11127,6694
+540,Bed 1,Furniture,Bed,Lumora,13912.09,11301
+541,Bed 2,Furniture,Bed,Lumora,3273.67,1859
+542,Bed 3,Furniture,Bed,Lumora,13084.46,10779
+543,Bed 4,Furniture,Bed,Lumora,17187.87,9992
+544,Bed 5,Furniture,Bed,Lumora,3418.68,2317
+545,Bed 6,Furniture,Bed,Lumora,13071.07,10263
+546,Bed 7,Furniture,Bed,Lumora,3866.04,2823
+547,Bed 8,Furniture,Bed,Lumora,4343.35,3459
+548,Bed 9,Furniture,Bed,Lumora,14673.14,8597
+549,Bed 10,Furniture,Bed,Lumora,18856.97,14234
+550,Bed 11,Furniture,Bed,Lumora,3211.94,2149
+551,Bed 12,Furniture,Bed,Lumora,1244.04,859
+552,Bed 13,Furniture,Bed,Lumora,15040.52,8471
+553,Bed 14,Furniture,Bed,Lumora,2320.81,1750
+554,Bed 15,Furniture,Bed,Lumora,10516.2,7379
+555,Bed 16,Furniture,Bed,Lumora,8907.2,5637
+556,Bed 17,Furniture,Bed,Lumora,13290.62,7887
+557,Bed 18,Furniture,Bed,Lumora,4751.53,3445
+558,Bed 19,Furniture,Bed,Lumora,5468.81,3427
+559,Bed 20,Furniture,Bed,Lumora,16955.25,10841
+560,Bed 21,Furniture,Bed,Lumora,1289.38,1015
+561,Bed 22,Furniture,Bed,Lumora,10985.83,6116
+562,Bed 23,Furniture,Bed,Lumora,15144.69,8428
+563,Bed 24,Furniture,Bed,Lumora,15783.1,10330
+564,Bed 25,Furniture,Bed,Lumora,4682.89,3095
+565,Bed 26,Furniture,Bed,Lumora,8198.53,4669
+566,Bed 27,Furniture,Bed,Lumora,5721.46,3659
+567,Bed 28,Furniture,Bed,Lumora,11265.49,9281
+568,Bed 29,Furniture,Bed,Lumora,14717.03,8884
+569,Bed 30,Furniture,Bed,Lumora,6954.46,4043
+570,Bed 31,Furniture,Bed,Lumora,4139.16,2380
+571,Bed 32,Furniture,Bed,Lumora,1372.78,983
+572,Bed 33,Furniture,Bed,Lumora,5125.27,4100
+573,Bed 34,Furniture,Bed,Lumora,20868.81,11831
+574,Bed 35,Furniture,Bed,Lumora,6662.75,4884
+575,Bed 36,Furniture,Bed,Lumora,6669.57,3764
+576,Bed 37,Furniture,Bed,Lumora,10090.32,6210
+577,Bed 38,Furniture,Bed,Lumora,15391.68,11181
+578,Bed 39,Furniture,Bed,Lumora,21419.84,12709
+579,Dining Table 1,Furniture,Dining Table,Lumora,11524.05,7644
+580,Dining Table 2,Furniture,Dining Table,Lumora,12365.04,7052
+581,Dining Table 3,Furniture,Dining Table,Lumora,5993.46,4597
+582,Dining Table 4,Furniture,Dining Table,Lumora,20074.8,11756
+583,Dining Table 5,Furniture,Dining Table,Lumora,16770.06,12253
+584,Dining Table 6,Furniture,Dining Table,Lumora,8751.41,6936
+585,Dining Table 7,Furniture,Dining Table,Lumora,22399.94,13495
+586,Dining Table 8,Furniture,Dining Table,Lumora,7283.09,5605
+587,Dining Table 9,Furniture,Dining Table,Lumora,6862.18,3872
+588,Dining Table 10,Furniture,Dining Table,Lumora,12399.02,8492
+589,Dining Table 11,Furniture,Dining Table,Lumora,11356.18,7809
+590,Dining Table 12,Furniture,Dining Table,Lumora,17364.68,12740
+591,Dining Table 13,Furniture,Dining Table,Lumora,9004.98,5722
+592,Dining Table 14,Furniture,Dining Table,Lumora,14940.27,10449
+593,Dining Table 15,Furniture,Dining Table,Lumora,5809.96,3772
+594,Dining Table 16,Furniture,Dining Table,Lumora,11520.87,6626
+595,Dining Table 17,Furniture,Dining Table,Lumora,17245.71,13924
+596,Dining Table 18,Furniture,Dining Table,Lumora,5617.09,3240
+597,Dining Table 19,Furniture,Dining Table,Lumora,12001.62,8878
+598,Dining Table 20,Furniture,Dining Table,Lumora,9927.07,7214
+599,Dining Table 21,Furniture,Dining Table,Lumora,24244.88,14044
+600,Dining Table 22,Furniture,Dining Table,Lumora,12971.74,9191
+601,Dining Table 23,Furniture,Dining Table,Lumora,1256.1,990
+602,Dining Table 24,Furniture,Dining Table,Lumora,19169.09,13755
+603,Dining Table 25,Furniture,Dining Table,Lumora,17650.83,13458
+604,Dining Table 26,Furniture,Dining Table,Lumora,5619.76,4519
+605,Dining Table 27,Furniture,Dining Table,Lumora,16027.21,11263
+606,Dining Table 28,Furniture,Dining Table,Lumora,4796.33,2876
+607,Dining Table 29,Furniture,Dining Table,Lumora,3018.07,2503
+608,Dining Table 30,Furniture,Dining Table,Lumora,14208.22,11776
+609,Dining Table 31,Furniture,Dining Table,Lumora,7820.82,5888
+610,Dining Table 32,Furniture,Dining Table,Lumora,16430.98,9797
+611,Dining Table 33,Furniture,Dining Table,Lumora,6625.94,4311
+612,Dining Table 34,Furniture,Dining Table,Lumora,9340.44,6817
+613,Dining Table 35,Furniture,Dining Table,Lumora,6029.04,3976
+614,Dining Table 36,Furniture,Dining Table,Lumora,3358.95,2186
+615,Dining Table 37,Furniture,Dining Table,Lumora,19144.63,12235
+616,Dining Table 38,Furniture,Dining Table,Lumora,25219.67,14972
+617,Dining Table 39,Furniture,Dining Table,Lumora,14315.04,11499
+618,Chair 1,Furniture,Chair,Lumora,16111.42,11088
+619,Chair 2,Furniture,Chair,Lumora,18832.42,12889
+620,Chair 3,Furniture,Chair,Lumora,19246.8,13826
+621,Chair 4,Furniture,Chair,Lumora,4585.91,3729
+622,Chair 5,Furniture,Chair,Lumora,12881.05,8592
+623,Chair 6,Furniture,Chair,Lumora,7257.9,4996
+624,Chair 7,Furniture,Chair,Lumora,3727.74,2533
+625,Chair 8,Furniture,Chair,Lumora,14454.08,10353
+626,Chair 9,Furniture,Chair,Lumora,9087.03,6772
+627,Chair 10,Furniture,Chair,Lumora,1162.63,848
+628,Chair 11,Furniture,Chair,Lumora,18444.97,11045
+629,Chair 12,Furniture,Chair,Lumora,17807.61,9933
+630,Chair 13,Furniture,Chair,Lumora,11054.05,8065
+631,Chair 14,Furniture,Chair,Lumora,25436.02,14289
+632,Chair 15,Furniture,Chair,Lumora,1921.67,1106
+633,Chair 16,Furniture,Chair,Lumora,11184.98,9142
+634,Chair 17,Furniture,Chair,Lumora,13384.82,11064
+635,Chair 18,Furniture,Chair,Lumora,10305.48,8198
+636,Chair 19,Furniture,Chair,Lumora,19776.6,13648
+637,Chair 20,Furniture,Chair,Lumora,7412.25,5431
+638,Chair 21,Furniture,Chair,Lumora,18083.49,12848
+639,Chair 22,Furniture,Chair,Lumora,2770.17,1806
+640,Chair 23,Furniture,Chair,Lumora,8425.62,5631
+641,Chair 24,Furniture,Chair,Lumora,1825.15,1271
+642,Chair 25,Furniture,Chair,Lumora,21323.43,11910
+643,Chair 26,Furniture,Chair,Lumora,14668.38,8582
+644,Chair 27,Furniture,Chair,Lumora,4245.85,2489
+645,Chair 28,Furniture,Chair,Lumora,13403.73,10624
+646,Chair 29,Furniture,Chair,Lumora,5123.68,4170
+647,Chair 30,Furniture,Chair,Lumora,859.77,670
+648,Chair 31,Furniture,Chair,Lumora,9938.75,5789
+649,Chair 32,Furniture,Chair,Lumora,18071.79,12366
+650,Chair 33,Furniture,Chair,Lumora,4119.24,3288
+651,Chair 34,Furniture,Chair,Lumora,21528.51,12363
+652,Chair 35,Furniture,Chair,Lumora,11055.63,6543
+653,Chair 36,Furniture,Chair,Lumora,16694.33,9307
+654,Chair 37,Furniture,Chair,Lumora,20264.25,11776
+655,Chair 38,Furniture,Chair,Lumora,8224.38,4754
+656,Chair 39,Furniture,Chair,Lumora,1526.11,1205
+657,Coffee Table 1,Furniture,Coffee Table,Lumora,6828.96,5485
+658,Coffee Table 2,Furniture,Coffee Table,Lumora,9507.18,5895
+659,Coffee Table 3,Furniture,Coffee Table,Lumora,22730.51,13470
+660,Coffee Table 4,Furniture,Coffee Table,Lumora,7969.7,4922
+661,Coffee Table 5,Furniture,Coffee Table,Lumora,4273.55,2757
+662,Coffee Table 6,Furniture,Coffee Table,Lumora,3143.51,2464
+663,Coffee Table 7,Furniture,Coffee Table,Lumora,18843.56,14621
+664,Coffee Table 8,Furniture,Coffee Table,Lumora,17448.08,10070
+665,Coffee Table 9,Furniture,Coffee Table,Lumora,11503.76,7271
+666,Coffee Table 10,Furniture,Coffee Table,Lumora,14578.16,11448
+667,Coffee Table 11,Furniture,Coffee Table,Lumora,12292.41,9144
+668,Coffee Table 12,Furniture,Coffee Table,Lumora,13301.02,8330
+669,Coffee Table 13,Furniture,Coffee Table,Lumora,7099.48,5096
+670,Coffee Table 14,Furniture,Coffee Table,Lumora,18581.57,12474
+671,Coffee Table 15,Furniture,Coffee Table,Lumora,2722.01,2004
+672,Coffee Table 16,Furniture,Coffee Table,Lumora,8708.41,5353
+673,Coffee Table 17,Furniture,Coffee Table,Lumora,9645.09,6283
+674,Coffee Table 18,Furniture,Coffee Table,Lumora,19913.65,14801
+675,Coffee Table 19,Furniture,Coffee Table,Lumora,18220.17,11102
+676,Coffee Table 20,Furniture,Coffee Table,Lumora,6262.56,3873
+677,Coffee Table 21,Furniture,Coffee Table,Lumora,3086.48,1731
+678,Coffee Table 22,Furniture,Coffee Table,Lumora,1973.97,1487
+679,Coffee Table 23,Furniture,Coffee Table,Lumora,15271.39,11485
+680,Coffee Table 24,Furniture,Coffee Table,Lumora,19905.71,13910
+681,Coffee Table 25,Furniture,Coffee Table,Lumora,10719.24,8489
+682,Coffee Table 26,Furniture,Coffee Table,Lumora,6615.14,3918
+683,Coffee Table 27,Furniture,Coffee Table,Lumora,19682.26,12978
+684,Coffee Table 28,Furniture,Coffee Table,Lumora,20215.06,14564
+685,Coffee Table 29,Furniture,Coffee Table,Lumora,9113.6,5608
+686,Coffee Table 30,Furniture,Coffee Table,Lumora,14521.4,11236
+687,Coffee Table 31,Furniture,Coffee Table,Lumora,11073.67,8765
+688,Coffee Table 32,Furniture,Coffee Table,Lumora,3501.24,2630
+689,Coffee Table 33,Furniture,Coffee Table,Lumora,9242.2,6457
+690,Coffee Table 34,Furniture,Coffee Table,Lumora,13614.3,7912
+691,Coffee Table 35,Furniture,Coffee Table,Lumora,11779.99,8912
+692,Coffee Table 36,Furniture,Coffee Table,Lumora,9262.92,7056
+693,Coffee Table 37,Furniture,Coffee Table,Lumora,7344.88,5052
+694,Coffee Table 38,Furniture,Coffee Table,Lumora,16255.69,11743
+695,Coffee Table 39,Furniture,Coffee Table,Lumora,22810.14,14751
+696,Table Lamp 1,Lighting,Table Lamp,Lumora,2798.35,2172
+697,Table Lamp 2,Lighting,Table Lamp,Lumora,18781.24,14855
+698,Table Lamp 3,Lighting,Table Lamp,Lumora,3098.7,2305
+699,Table Lamp 4,Lighting,Table Lamp,Lumora,10563.35,8050
+700,Table Lamp 5,Lighting,Table Lamp,Lumora,1438.2,968
+701,Table Lamp 6,Lighting,Table Lamp,Lumora,13535.63,9198
+702,Table Lamp 7,Lighting,Table Lamp,Lumora,6165.6,4851
+703,Table Lamp 8,Lighting,Table Lamp,Lumora,11899.19,9516
+704,Table Lamp 9,Lighting,Table Lamp,Lumora,10045.88,7569
+705,Table Lamp 10,Lighting,Table Lamp,Lumora,10513.7,7003
+706,Table Lamp 11,Lighting,Table Lamp,Lumora,12351.55,8821
+707,Table Lamp 12,Lighting,Table Lamp,Lumora,10540.27,7730
+708,Table Lamp 13,Lighting,Table Lamp,Lumora,2584.37,2102
+709,Table Lamp 14,Lighting,Table Lamp,Lumora,11092.47,6767
+710,Table Lamp 15,Lighting,Table Lamp,Lumora,9771.33,7423
+711,Table Lamp 16,Lighting,Table Lamp,Lumora,5194.14,3603
+712,Table Lamp 17,Lighting,Table Lamp,Lumora,13972.36,10232
+713,Table Lamp 18,Lighting,Table Lamp,Lumora,15637.97,10452
+714,Table Lamp 19,Lighting,Table Lamp,Lumora,9621.68,7603
+715,Table Lamp 20,Lighting,Table Lamp,Lumora,2091.14,1317
+716,Table Lamp 21,Lighting,Table Lamp,Lumora,3088.32,2319
+717,Table Lamp 22,Lighting,Table Lamp,Lumora,2379.74,1370
+718,Table Lamp 23,Lighting,Table Lamp,Lumora,13493.73,9924
+719,Table Lamp 24,Lighting,Table Lamp,Lumora,2397.42,1578
+720,Table Lamp 25,Lighting,Table Lamp,Lumora,6696.76,5013
+721,Table Lamp 26,Lighting,Table Lamp,Lumora,17267.7,10661
+722,Table Lamp 27,Lighting,Table Lamp,Lumora,10229.71,7128
+723,Table Lamp 28,Lighting,Table Lamp,Lumora,2875.64,2159
+724,Table Lamp 29,Lighting,Table Lamp,Lumora,24189.76,14001
+725,Table Lamp 30,Lighting,Table Lamp,Lumora,7328.32,4895
+726,Table Lamp 31,Lighting,Table Lamp,Lumora,5519.08,3302
+727,Table Lamp 32,Lighting,Table Lamp,Lumora,9801.35,6195
+728,Table Lamp 33,Lighting,Table Lamp,Lumora,18793.15,12064
+729,Table Lamp 34,Lighting,Table Lamp,Lumora,15050.94,12523
+730,Table Lamp 35,Lighting,Table Lamp,Lumora,5304.87,3532
+731,Table Lamp 36,Lighting,Table Lamp,Lumora,18841.49,11976
+732,Table Lamp 37,Lighting,Table Lamp,Lumora,17440.7,12609
+733,Table Lamp 38,Lighting,Table Lamp,Lumora,15810.47,11771
+734,Table Lamp 39,Lighting,Table Lamp,Lumora,9109.4,5662
+735,Ceiling Light 1,Lighting,Ceiling Light,Lumora,4239.07,3230
+736,Ceiling Light 2,Lighting,Ceiling Light,Lumora,10226.83,7958
+737,Ceiling Light 3,Lighting,Ceiling Light,Lumora,1132.53,708
+738,Ceiling Light 4,Lighting,Ceiling Light,Lumora,10518.65,7511
+739,Ceiling Light 5,Lighting,Ceiling Light,Lumora,6081.99,3408
+740,Ceiling Light 6,Lighting,Ceiling Light,Lumora,18615.53,14938
+741,Ceiling Light 7,Lighting,Ceiling Light,Lumora,19257.79,11628
+742,Ceiling Light 8,Lighting,Ceiling Light,Lumora,1025.67,659
+743,Ceiling Light 9,Lighting,Ceiling Light,Lumora,12806.78,8263
+744,Ceiling Light 10,Lighting,Ceiling Light,Lumora,14653.41,8500
+745,Ceiling Light 11,Lighting,Ceiling Light,Lumora,10431.34,8242
+746,Ceiling Light 12,Lighting,Ceiling Light,Lumora,16845.62,13917
+747,Ceiling Light 13,Lighting,Ceiling Light,Lumora,20886.84,11641
+748,Ceiling Light 14,Lighting,Ceiling Light,Lumora,18966.29,14186
+749,Ceiling Light 15,Lighting,Ceiling Light,Lumora,11369.25,8743
+750,Ceiling Light 16,Lighting,Ceiling Light,Lumora,4830.61,2901
+751,Ceiling Light 17,Lighting,Ceiling Light,Lumora,2956.34,2138
+752,Ceiling Light 18,Lighting,Ceiling Light,Lumora,17603.07,12561
+753,Ceiling Light 19,Lighting,Ceiling Light,Lumora,14011.55,8539
+754,Ceiling Light 20,Lighting,Ceiling Light,Lumora,12785.57,9440
+755,Ceiling Light 21,Lighting,Ceiling Light,Lumora,11452.47,8470
+756,Ceiling Light 22,Lighting,Ceiling Light,Lumora,9684.42,8016
+757,Ceiling Light 23,Lighting,Ceiling Light,Lumora,8666.53,6277
+758,Ceiling Light 24,Lighting,Ceiling Light,Lumora,10351.69,5967
+759,Ceiling Light 25,Lighting,Ceiling Light,Lumora,21080.8,13189
+760,Ceiling Light 26,Lighting,Ceiling Light,Lumora,25551.84,14674
+761,Ceiling Light 27,Lighting,Ceiling Light,Lumora,15293.69,10260
+762,Ceiling Light 28,Lighting,Ceiling Light,Lumora,7931.66,4922
+763,Ceiling Light 29,Lighting,Ceiling Light,Lumora,19689.21,12431
+764,Ceiling Light 30,Lighting,Ceiling Light,Lumora,5223.93,2923
+765,Ceiling Light 31,Lighting,Ceiling Light,Lumora,19354.86,14529
+766,Ceiling Light 32,Lighting,Ceiling Light,Lumora,3988.37,2820
+767,Ceiling Light 33,Lighting,Ceiling Light,Lumora,1354.7,1006
+768,Ceiling Light 34,Lighting,Ceiling Light,Lumora,20444.99,12640
+769,Ceiling Light 35,Lighting,Ceiling Light,Lumora,10696.67,7556
+770,Ceiling Light 36,Lighting,Ceiling Light,Lumora,15914,12695
+771,Ceiling Light 37,Lighting,Ceiling Light,Lumora,10590.29,6689
+772,Ceiling Light 38,Lighting,Ceiling Light,Lumora,8608.99,4987
+773,Ceiling Light 39,Lighting,Ceiling Light,Lumora,17744.68,11621
+774,Floor Lamp 1,Lighting,Floor Lamp,Lumora,14088.26,7860
+775,Floor Lamp 2,Lighting,Floor Lamp,Lumora,22519.29,14853
+776,Floor Lamp 3,Lighting,Floor Lamp,Lumora,8462.07,4846
+777,Floor Lamp 4,Lighting,Floor Lamp,Lumora,10769.33,6215
+778,Floor Lamp 5,Lighting,Floor Lamp,Lumora,10728.39,6906
+779,Floor Lamp 6,Lighting,Floor Lamp,Lumora,6964,5026
+780,Floor Lamp 7,Lighting,Floor Lamp,Lumora,1815.46,1173
+781,Floor Lamp 8,Lighting,Floor Lamp,Lumora,16868.76,11998
+782,Floor Lamp 9,Lighting,Floor Lamp,Lumora,13416.69,10533
+783,Floor Lamp 10,Lighting,Floor Lamp,Lumora,19929.91,13530
+784,Floor Lamp 11,Lighting,Floor Lamp,Lumora,22591.15,13484
+785,Floor Lamp 12,Lighting,Floor Lamp,Lumora,6615.45,5225
+786,Floor Lamp 13,Lighting,Floor Lamp,Lumora,953.59,636
+787,Floor Lamp 14,Lighting,Floor Lamp,Lumora,15112.8,11731
+788,Floor Lamp 15,Lighting,Floor Lamp,Lumora,15037.83,11656
+789,Floor Lamp 16,Lighting,Floor Lamp,Lumora,8260.23,5247
+790,Floor Lamp 17,Lighting,Floor Lamp,Lumora,14771.47,11384
+791,Floor Lamp 18,Lighting,Floor Lamp,Lumora,11637.17,8476
+792,Floor Lamp 19,Lighting,Floor Lamp,Lumora,18729.1,13603
+793,Floor Lamp 20,Lighting,Floor Lamp,Lumora,9718.2,7936
+794,Floor Lamp 21,Lighting,Floor Lamp,Lumora,8706.97,5136
+795,Floor Lamp 22,Lighting,Floor Lamp,Lumora,3106.89,2522
+796,Floor Lamp 23,Lighting,Floor Lamp,Lumora,6628.83,5510
+797,Floor Lamp 24,Lighting,Floor Lamp,Lumora,10009.47,6271
+798,Floor Lamp 25,Lighting,Floor Lamp,Lumora,627.27,510
+799,Floor Lamp 26,Lighting,Floor Lamp,Lumora,3886.32,2756
+800,Floor Lamp 27,Lighting,Floor Lamp,Lumora,8591.42,5141
